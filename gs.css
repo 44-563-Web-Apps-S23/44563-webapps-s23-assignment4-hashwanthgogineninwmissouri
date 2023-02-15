@@ -1,0 +1,26 @@
+.speech
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.direction
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: small;
+    background-color: aqua;
+}
+.direction:hover {
+    background-color: rgb(94, 153, 153);
+    color: grey;
+  }
+.zama
+{   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+}
+.ohano
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: palevioletred;
+}
