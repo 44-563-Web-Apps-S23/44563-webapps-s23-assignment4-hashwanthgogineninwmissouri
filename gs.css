@@ -32,13 +32,13 @@ table {
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #919191;
     text-align: left;
     padding: 8px;
   }
   
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #00e5ff;
   }
 .zama:hover {
 background-color: rgb(212, 0, 255);
