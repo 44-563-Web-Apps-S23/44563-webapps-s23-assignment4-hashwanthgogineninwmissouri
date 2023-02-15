@@ -40,3 +40,15 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+.zama:hover {
+background-color: rgb(212, 0, 255);
+color: rgb(255, 0, 0);
+border-style: double;
+border-left: 10px solid rgb(110, 40, 36);
+}
+.ohano:hover {
+background-color: rgb(98, 255, 0);
+color: rgb(0, 148, 239);
+border-style: double;
+border-left: 10px solid rgb(0, 225, 255);
+}
