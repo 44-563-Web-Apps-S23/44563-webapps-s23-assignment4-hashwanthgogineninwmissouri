@@ -2,12 +2,13 @@
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
+    font-size: 15px;
 }
 .direction
 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: black;
-    font-size: small;
+    font-size: 12px;
     background-color: aqua;
 }
 .direction:hover {
